@@ -1,5 +1,3 @@
-import requests
-import plyer
 from plyer import notification
 import time
 
